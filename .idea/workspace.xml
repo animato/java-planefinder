@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d79d7ba1-4cab-40dd-8b82-9f7fd600143d" name="변경" comment="- 간단한 데이터 확인 페이지 추가" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="planefinder" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/3.2.1/f44ddb05907deaddbf4ddcd6e5183355a7b5a7a1/spring-data-redis-3.2.1.jar!/org/springframework/data/redis/core/RedisTemplate.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
+    {
+      &quot;name&quot;: &quot;gke_astral-hulling-395211_us-central1-c_mycluster&quot;
+    }
+  ],
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="gke_astral-hulling-395211_us-central1-c_mycluster" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2aLUiLF9om699qvIrJIJddkX61d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.docker-compose.yml.planefinder: Compose 배포.executor": "Run",
+    "Docker.docker-compose.yml: Compose 배포.executor": "Run",
+    "Gradle.Gradle 종속성 로드.executor": "Run",
+    "Gradle.planefinder 빌드.executor": "Run",
+    "HTTP 요청.api-test | GET aircraft.executor": "Run",
+    "HTTP 요청.api-test | GET#1.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.PlanefinderApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dsyang/IdeaProjects/planefinder/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.25747126",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/com/example/planefinder" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.planefinder.redis" />
+      <recent name="com.example.planefinder.jpa" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.planefinder.jpa" />
+      <recent name="com.example.planefinder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PlanefinderApplication">
+    <configuration name="api-test | GET aircraft" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-test.http" requestIdentifier="GET aircraft" runType="단일 요청 실행">
+      <method v="2" />
+    </configuration>
+    <configuration name="api-test | GET#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-test.http" requestIdentifier="GET#1" runType="단일 요청 실행">
+      <method v="2" />
+    </configuration>
+    <configuration name="PlanefinderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="planefinder" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.thehecklers.planefinder.PlanefinderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose 배포" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.planefinder: Compose 배포" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="planefinder" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yml.planefinder: Compose 배포" />
+      <item itemvalue="Docker.docker-compose.yml: Compose 배포" />
+      <item itemvalue="HTTP 요청.api-test | GET#1" />
+      <item itemvalue="HTTP 요청.api-test | GET aircraft" />
+      <item itemvalue="Spring Boot.PlanefinderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.planefinder: Compose 배포" />
+        <item itemvalue="Docker.docker-compose.yml: Compose 배포" />
+        <item itemvalue="HTTP 요청.api-test | GET#1" />
+        <item itemvalue="HTTP 요청.api-test | GET aircraft" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-azul-1.8.0_392-f644763e9732-4a8d90ae" />
+        <option value="jdk-11.0.21-azul-11.0.21-f644763e9732-9402cd0d" />
+        <option value="jdk-17.0.9-temurin-17.0.9-f644763e9732-45d2320c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d79d7ba1-4cab-40dd-8b82-9f7fd600143d" name="변경" comment="" />
+      <created>1704097478716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704097478716</updated>
+      <workItem from="1704097480860" duration="5619000" />
+      <workItem from="1704108966124" duration="698000" />
+      <workItem from="1704175249637" duration="8075000" />
+      <workItem from="1704187829962" duration="15000" />
+      <workItem from="1704280683201" duration="1208000" />
+      <workItem from="1704283084188" duration="2004000" />
+      <workItem from="1704289489150" duration="95000" />
+      <workItem from="1704289598224" duration="598000" />
+      <workItem from="1704351145190" duration="466000" />
+      <workItem from="1704355977083" duration="751000" />
+      <workItem from="1704442245977" duration="5219000" />
+      <workItem from="1704702988882" duration="4250000" />
+      <workItem from="1704783526655" duration="5901000" />
+      <workItem from="1704875416676" duration="341000" />
+      <workItem from="1704875772331" duration="1585000" />
+      <workItem from="1704884787447" duration="598000" />
+      <workItem from="1704894411143" duration="11000" />
+      <workItem from="1704962710870" duration="925000" />
+      <workItem from="1704965793701" duration="405000" />
+    </task>
+    <task id="LOCAL-00001" summary="update README.md">
+      <option name="closed" value="true" />
+      <created>1704098436501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704098436501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="planefinder 데이터를 요청해서 redis database에 저장">
+      <option name="closed" value="true" />
+      <created>1704184340215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704184340215</updated>
+    </task>
+    <task id="LOCAL-00003" summary="planefinder 데이터 생성 서비스를 docker 로 변경">
+      <option name="closed" value="true" />
+      <created>1704280864296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704280864296</updated>
+    </task>
+    <task id="LOCAL-00004" summary="repository로 변경">
+      <option name="closed" value="true" />
+      <created>1704356719596</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704356719596</updated>
+    </task>
+    <task id="LOCAL-00005" summary="jpa package 추가">
+      <option name="closed" value="true" />
+      <created>1704444975482</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444975482</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- 데이터베이스 MySQL로 변경&#10;- 데이터베이스 로드 스크립트 추가">
+      <option name="closed" value="true" />
+      <created>1704705411696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704705411696</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- MongoDB 추가">
+      <option name="closed" value="true" />
+      <created>1704784537527</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704784537527</updated>
+    </task>
+    <task id="LOCAL-00008" summary="- Neo4j 추가">
+      <option name="closed" value="true" />
+      <created>1704787736385</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704787736385</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- 간단한 데이터 확인 페이지 추가">
+      <option name="closed" value="true" />
+      <created>1704876989631</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704876989631</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update README.md" />
+    <MESSAGE value="planefinder 데이터를 요청해서 redis database에 저장" />
+    <MESSAGE value="planefinder 데이터 생성 서비스를 docker 로 변경" />
+    <MESSAGE value="repository로 변경" />
+    <MESSAGE value="jpa package 추가" />
+    <MESSAGE value="- 데이터베이스 MySQL로 변경&#10;- 데이터베이스 로드 스크립트 추가" />
+    <MESSAGE value="- MongoDB 추가" />
+    <MESSAGE value="- Neo4j 추가" />
+    <MESSAGE value="- 간단한 데이터 확인 페이지 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="- 간단한 데이터 확인 페이지 추가" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.2.1/94badb4b6a3a94510470d256681c6c8733209840/spring-boot-autoconfigure-3.2.1-sources.jar!/org/springframework/boot/autoconfigure/jackson/JacksonProperties.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/3.2.1/94badb4b6a3a94510470d256681c6c8733209840/spring-boot-autoconfigure-3.2.1-sources.jar!/org/springframework/boot/autoconfigure/neo4j/Neo4jAutoConfiguration.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
